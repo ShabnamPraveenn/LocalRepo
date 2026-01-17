@@ -1,1 +1,7 @@
 Hello everyone!!
+here everyone should fill their personal details.
+NAME:
+BRANCH:
+ROLL:
+SECTION:
+COLLEGE:
